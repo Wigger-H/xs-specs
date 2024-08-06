@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = "XSIOTSDK"
-  s.version               = "1.0.0"
+  s.version               = "1.0.2"
   s.summary               = "XSIOTSDK"
   s.homepage              = "https://github.com/Wigger-H"
   s.license               = { :type => 'Copyright', :text => "Wigger-INC copyright" }
